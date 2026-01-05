@@ -13,9 +13,13 @@ My work blends archival precision with narrative imagination, inviting readers t
 * **[The Scalpel Slipped](https://github.com/andreas-breidenthal/friction-trilogy/blob/main/_03-the-scalpel-slipped.md)**: A narrative of the 1914 collapse and the diplomacy of withholding.
 
 ---
+### Related Work
+
+* **[Seamless: A Study in Ambiguity](https://github.com/andreas-breidenthal/seamless-ambiguity)**  
+  Two interconnected manuscripts examining the boundary between fictional archives and the historical record.  
 
 ### Methodology & Influences
-I treat the historical record like a codebase with missing commits. My love of history has heavily influenced by the humorous, yet meticulously accurate **David Crowther’s *The History of England* podcast** (in his own words: *"I am horribly and gum-bleedingly non fictional"*) and the *rather-more-fictional* sharp wit of **Sellar & Yeatman's *1066 and All That***.
+I treat the historical record like a codebase with missing commits. My love of history has been heavily influenced by the humorous, yet meticulously accurate **David Crowther’s *The History of England* podcast** (in his own words: *"I am horribly and gum-bleedingly non fictional"*) and the *rather-more-fictional* sharp wit of **Sellar & Yeatman's *1066 and All That***.
 
 Everything in this repository is dedicated to the **Public Domain (CC0 1.0)**. 
 
