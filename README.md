@@ -15,7 +15,7 @@ My work blends archival precision with narrative imagination, inviting readers t
 ---
 
 ### Methodology & Influences
-I treat the historical record like a codebase with missing commits. My approach is heavily influenced by the scholarly rigor of **David Crowther’s *The History of England*** and the sharp wit of ***1066 and All That***.
+I treat the historical record like a codebase with missing commits. My love of history has heavily influenced by the humorous, yet meticulously accurate **David Crowther’s *The History of England* podcast** (in his own words: *"I am horribly and gum-bleedingly non fictional"*) and the *rather-more-fictional* sharp wit of **Sellar & Yeatman's *1066 and All That***.
 
 Everything in this repository is dedicated to the **Public Domain (CC0 1.0)**. 
 
