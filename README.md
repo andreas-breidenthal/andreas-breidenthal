@@ -7,9 +7,9 @@ My work blends archival precision with narrative imagination, inviting readers t
 ## 📚 Friction: A Trilogy of the Painfully Possible  
 *Archival fictions exploring the architecture of silence (1888–1914).*
 
-* **[Operation Seamless](https://github.com/andreas-breidenthal/friction-trilogy/blob/main/Operation%20Seamless%20-%20A%20Recovered%20Archive.md)**: A Victorian dossier on the systematic erasure of a murder in 1888.
-* **[Victoria Unpublished](https://github.com/andreas-breidenthal/friction-trilogy/blob/main/Victoria%20Unpublished%20-%20Does%20fiction%20restore%20what%20history%20omits.md)**: An enquiry into the editorial shaping of a Queen's private voice.
-* **[The Scalpel Slipped](https://github.com/andreas-breidenthal/friction-trilogy/blob/main/The%20Scalpel%20Slipped%20...%20and%20the%20world%20bled%20out.md)**: A narrative of the 1914 collapse and the diplomacy of withholding.
+* **[Operation Seamless](_01-operation-seamless.md)**: A Victorian dossier on the systematic erasure of a murder in 1888.
+* **[Victoria Unpublished](_02-victoria-unpublished.md)**: An enquiry into the editorial shaping of a Queen's private voice.
+* **[The Scalpel Slipped](_03-the-scalpel-slipped.md)**: A narrative of the 1914 collapse and the diplomacy of withholding.
 
 ---
 
