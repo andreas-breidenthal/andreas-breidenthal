@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18151504.svg)](https://doi.org/10.5281/zenodo.18151504)
-
 # Andreas Breidenthal
 
 I am a writer fascinated by the "quiet gaps" in history—the moments where records vanish, voices are edited, and silences determine the fate of nations. 
@@ -7,6 +5,7 @@ I am a writer fascinated by the "quiet gaps" in history—the moments where reco
 My work blends archival precision with narrative imagination, inviting readers to question what history preserves—and what it chooses to forget.
 
 ## 📚 Friction: A Trilogy of the Painfully Possible  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18151504.svg)](https://doi.org/10.5281/zenodo.18151504)  
 *Archival fictions exploring the architecture of silence (1888–1914).*
 
 * **[Operation Seamless](https://github.com/andreas-breidenthal/friction-trilogy/blob/main/_01-operation-seamless.md)**: A Victorian dossier on the systematic erasure of a murder in 1888.
