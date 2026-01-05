@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18151504.svg)](https://doi.org/10.5281/zenodo.18151504)
+
 # Andreas Breidenthal
 
 I am a writer fascinated by the "quiet gaps" in history—the moments where records vanish, voices are edited, and silences determine the fate of nations. 
