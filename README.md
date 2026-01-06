@@ -4,7 +4,7 @@ I am a writer fascinated by the "quiet gaps" in history—the moments where reco
 
 My work blends archival precision with narrative imagination, inviting readers to question what history preserves—and what it chooses to forget.
 
-## 📚 Friction: A Trilogy of the Painfully Possible  
+## 📚 [Friction: A Trilogy of the Painfully Possible](https://github.com/andreas-breidenthal/friction-trilogy)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18151504.svg)](https://doi.org/10.5281/zenodo.18151504)  
 *Archival fictions exploring the architecture of silence (1888–1914).*
 
